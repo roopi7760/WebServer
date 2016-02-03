@@ -1,0 +1,11 @@
+WebServer recieved a request from ('127.0.0.1', 64922) 
+ Below is the Request packet from client
+GET /favicon.ico HTTP/1.1
+Accept: */*
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; Touch; rv:11.0) like Gecko
+Host: 127.0.0.1:8081
+DNT: 1
+Connection: Keep-Alive
+

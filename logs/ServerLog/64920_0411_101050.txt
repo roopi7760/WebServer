@@ -1,0 +1,11 @@
+WebServer recieved a request from ('127.0.0.1', 64920) 
+ Below is the Request packet from client
+GET /hello.html HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://127.0.0.1:8081/
+Accept-Language: en-US,en;q=0.5
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 127.0.0.1:8081
+Connection: Keep-Alive
+
